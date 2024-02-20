@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Xpense.API\\Controllers",
+    "\\Xpense.API\\Controllers\\Security",
+    "\\Xpense.application\\Favorites\\Interfaces",
+    "\\Xpense.application\\Favorites\\Models"
   ],
-  "SelectedNode": "\\Backend",
   "PreviewInSolutionExplorer": false
 }
